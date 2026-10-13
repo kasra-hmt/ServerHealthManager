@@ -1,6 +1,6 @@
 # Server Health Manager
 
-A PowerShell-based Windows Server health-check tool with a simple Windows Forms interface and controlled remediation.
+A PowerShell-based Windows Server health-check tool with a simple Windows Forms interface and Read-only Windows health checks.
 
 ## Features
 

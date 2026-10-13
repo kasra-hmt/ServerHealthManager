@@ -1,0 +1,9 @@
+﻿# Generated reports
+Reports/
+**/Reports/
+*.log
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.temp
